@@ -1,1 +1,3 @@
-build a ecommerce website for HTML CSS JavaScript
+build a ecommerce website for HTML CSS 
+<br>
+JavaScript
